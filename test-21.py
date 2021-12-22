@@ -1,7 +1,7 @@
 import unittest
 from aoc_21 import part_a, find_most_wins
 
-class TestDay20(unittest.TestCase):
+class TestDay21(unittest.TestCase):
 
     def test_part_a(self):
         self.assertEqual(739785, part_a(4, 8))
